@@ -1,0 +1,21 @@
+{
+  "name": "oct24-t2w11-docker-basics",
+  "version": "1.0.0",
+  "description": "Basic NodeJS app to run in a Docker image.",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexStormwood/oct24-t2w11-docker-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AlexStormwood/oct24-t2w11-docker-basics/issues"
+  },
+  "homepage": "https://github.com/AlexStormwood/oct24-t2w11-docker-basics#readme"
+}
